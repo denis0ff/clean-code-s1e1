@@ -40,7 +40,7 @@
   flex-grow: 1;
 }
 
-.new-task-wrapper {
+.new-task__wrapper {
   display: flex;
 }
 
@@ -92,12 +92,12 @@
 }
 
 /* New Task */
-.new-task-label {
+.new-task__label {
   display: block;
   margin: 0 0 20px;
 }
 
-.task-text_new {
+.new-task__text {
   width: 318px;
 }
 
